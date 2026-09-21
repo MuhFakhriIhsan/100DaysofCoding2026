@@ -5,7 +5,7 @@ public class Day21 {
         Scanner in = new Scanner(System.in);
         
         System.out.print("Masukkan angka: ");
-        String Teks = in.nextLine(); 
+        String Teks = in.next(); 
         
         int angka = Integer.parseInt(Teks);
         
