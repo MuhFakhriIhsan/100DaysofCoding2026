@@ -9,7 +9,7 @@ public class Day21 {
         
         int angka = Integer.parseInt(Teks);
         
-        System.out.println("Nilai int : " + angka);
+        System.out.printf("Nilai int :%d " , angka);
         
         }
       
