@@ -9,7 +9,7 @@ public class Day20{
 
         String teks = String.valueOf(angka);
 
-        System.out.println("Nilai string : " + teks);
+        System.out.printf("Nilai string :%s " , teks);
         
         }
     }
