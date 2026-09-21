@@ -8,9 +8,9 @@ public class Day22 {
         System.out.print("Nilai B : ");
         int nilaiB = in.nextInt();
 
-        int temp = nilaiA;
+        int C = nilaiA;
         nilaiA = nilaiB;
-        nilaiB = temp;
+        nilaiB = C;
 
         System.out.printf("Nilai A setelah ditukar :%d%n " , nilaiA);
         System.out.printf("Nilai B setelah ditukar :%d " , nilaiB);
