@@ -12,8 +12,10 @@ public class Day45 {
             System.out.println("Hari kerja");
             break;
             case 6,7 :
-            System.out.println("Weakend");
+            System.out.println("Weekend");
             break;
+            default :
+            System.out.println("Tidak valid");
             
         }
 
