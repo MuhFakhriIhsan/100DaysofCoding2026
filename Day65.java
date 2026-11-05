@@ -5,7 +5,7 @@ public class Day65 {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
 
-        for (int i = 1; i <= a; i++) {
+        for (int b = 1; b <= a; b++) {
             System.out.println("*");
             
         }
