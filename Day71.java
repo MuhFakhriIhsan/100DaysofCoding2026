@@ -8,7 +8,7 @@ public class Day71 {
         
         for (int b = a; b >= 1; b--) {
             for (int c = 1; c <= b; c++) {
-                System.out.print("*");
+                System.out.print("* ");
             }
             System.out.println();
         }
